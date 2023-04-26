@@ -89,4 +89,4 @@ const callScrap = async () => {
 }
 
 //make sure this line is the last line
-client.login('MTA2NzUwMDc4NTMwNDM1MDc3MQ.GloPCC.nTf3Hoo09R4-0xHsQT6Mtw03Xyu69ywLWt57xQ'); //login bot using token
+client.login('CODE'); //login bot using token
